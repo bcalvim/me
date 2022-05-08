@@ -21,5 +21,6 @@ utilizadas são *iptables* e *firewalld*
 armazenar dados sobre o funcionamento do servidor e, caso necessário, notificar
 a equipe de manutenção devido algum comportamento atípico.
 
-Tags:  
+Tags: 
+ 
     #linux #servidores
