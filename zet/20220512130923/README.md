@@ -13,4 +13,5 @@ para deixá-lo utilizável novamente. Sim, sim, eu poderia ter feito um script
 para poder refazer todo o ambiente, mas não fiz. Talvez já seja hora de fazer. 
 
 tags:  
+
     #pop #linux
