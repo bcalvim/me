@@ -7,4 +7,5 @@ wayland. O único problema seria ter que me desfazer de tudo que já tenho
 configurado aqui no POP_OS! 22.04, que já me deu trabalho recentemente.
 
 tags:  
+
     #linux #fedora #nvidia
