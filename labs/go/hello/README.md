@@ -50,8 +50,8 @@ func main() {
    `quote.Glass()`, `quote.Hello()` e `quote.Opt`. 
 
 Referências:  
-https://go.dev/doc/tutorial/getting-started
-https://pkg.go.dev/rsc.io/quote
+https://go.dev/doc/tutorial/getting-started  
+https://pkg.go.dev/rsc.io/quote  
 
 Tags:  
     #go
