@@ -27,3 +27,31 @@ func main() {
    incluindo impressão no console(terminal). Esse pacote faz parte da
    biblioteca padrão do Go
 1. A função main imprime no terminal a mensagem.
+1. Podemos importar código feito por outra pessoa 
+1. Nesse exemplo importamos o pacote `rsc.io/quote` da seguinte forma:
+```go
+pacage main
+
+import "fmt"
+
+import "rsc.io/quote"
+
+func main() {
+  fmt.Println(quote.Go())
+}
+```
+1. Depois de adicionar as linhas ao código original rode o comando `go
+   mod tidy` para que os requisitos do módulo possam ser atendidos. Esse
+   comando irá adicionar o módulo e criará um arquivo chamado `go.sum`
+   que servirá para autenticar o módulo importado. 
+1. Após podemos rodar novamente o programa com `go run .` obtendo uma
+   mensagem diferente da anterior.
+1. Outras funções que podem ser chamadas no lugar de `quote.Go()` são:
+   `quote.Glass()`, `quote.Hello()` e `quote.Opt`. 
+
+Referências:  
+https://go.dev/doc/tutorial/getting-started
+https://pkg.go.dev/rsc.io/quote
+
+Tags:  
+    #go
