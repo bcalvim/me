@@ -11,7 +11,7 @@ para o windows, ainda usando o Linux em uma VM. Essa tem me parecido uma
 decisão sensata, do ponto de vista de uso de softwares que atendem as
 minhas necessidades. Quanto a privacidade, sim esse é um ponto negativo,
 mas google faz o mesmo, ou pior, e hoje dependemos muito deles pra
-maioria das tarefas diarias (e-mail, celulares, etc). 
+maioria das tarefas diárias (e-mail, celulares, etc). 
 
 Ainda acho Linux um excelente sistema operacional e gostaria muito de
 ver ele como uma alternativa viável, mas isso não parece ser possível,
