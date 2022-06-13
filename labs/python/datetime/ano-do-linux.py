@@ -10,8 +10,10 @@ ano_do_linux = ano.replace(year=2023)
 
 if sistema.system == 'Windows':
     print('Estranho, estamos rodando num Windows')
-else:
+elif sistema.system == 'Linux':
     print('Eba, estamos em um Linux')
+else:
+    print(f'Estamos rodando em um {sistema.system}')
 
 print(f'Em {ano} inicia-se o ano do linux')
 
