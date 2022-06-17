@@ -1,6 +1,6 @@
 # Cat-Dog
 
-Escreva um programa que receba um argumento de um usu�rio e retorne "Woof" se o argumento for um cachorro e "Meow" se for um gato.
+Escreva um programa que receba um argumento de um usuário e retorne "Woof" se o argumento for um cachorro e "Meow" se for um gato.
 
 
 
