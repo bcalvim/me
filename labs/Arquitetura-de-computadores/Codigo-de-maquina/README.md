@@ -19,9 +19,11 @@
 1. É o programa que traduz o código para o código de máquina.
 1. O compilador interpreta o código com o um texto simples e identifica plavras chaves e gera o código novo em linguagem de máquina.
 1. O processo é semelhante a tradução de um livro.
+1. Normalmente programas de alta performance são escritos em linguagem compiladas. 
 
 # Interpretador
 
 1. Similar ao compilador, porém não gera um arquivo novo.
 1. O interpretador traduz o código para código de máquina e imediatamente transfere o conteúdo traduzido para ser executado pelo computador.
 1. É semelhante a um interprete que traduz simultaneamente o que um estrangeiro está falando. 
+1. Programas interpretados são de desenvolvimento mais rápido, porém tem execução relativamente mais lenta. 
